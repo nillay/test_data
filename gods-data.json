@@ -1,0 +1,376 @@
+[
+  {
+    "id": 1,
+    "name": "Anala Agni",
+    "email": "anala.agni@vaikunth.lok",
+    "username": "AnalaAgni",
+    "phone": "+1234567890",
+    "address": {
+      "street": "123 Main Street",
+      "suite": "Apt 101",
+      "city": "Cityville",
+      "zip-code": "123",
+      "geo": {
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    },
+    "company": {
+      "name": "Vaikunth",
+      "catchphrase": "Ignite the divine fire within",
+      "bs": "Anadi Ananat Parbhramh"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Atmabhu Brahma",
+    "email": "atmabhu.brahma@vaikunth.lok",
+    "username": "AtmabhuBrahma",
+    "phone": "+1234567891",
+    "address": {
+      "street": "456 Elm Street",
+      "suite": "Apt 202",
+      "city": "Townsville",
+      "zip-code": "456",
+      "geo": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    },
+    "company": {
+      "name": "Vaikunth",
+      "catchphrase": "Create universes with your thoughts",
+      "bs": "Anadi Ananat Parbhramh"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Daksha Prajapati",
+    "email": "daksha.prajapati@vaikunth.lok",
+    "username": "DakshaPrajapati",
+    "phone": "+1234567890",
+    "address": {
+      "street": "789 Oak Street",
+      "suite": "Apt 303",
+      "city": "Villageville",
+      "zip-code": "789",
+      "geo": {
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    },
+    "company": {
+      "name": "Vaikunth",
+      "catchphrase": "Crafting destinies with precision",
+      "bs": "Anadi Ananat Parbhramh"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Ramdoot Hanuman",
+    "email": "ramdoot.hanuman@vaikunth.lok",
+    "username": "RamdootHanuman",
+    "phone": "+1234567891",
+    "address": {
+      "street": "567 Pine Street",
+      "suite": "Apt 404",
+      "city": "Hamletville",
+      "zip-code": "567",
+      "geo": {
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    },
+    "company": {
+      "name": "Vaikunth",
+      "catchphrase": "Serving with unwavering devotion",
+      "bs": "Anadi Ananat Parbhramh"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Devaraj Indra",
+    "email": "devaraj.indra@vaikunth.lok",
+    "username": "DevarajIndra",
+    "phone": "+1234567892",
+    "address": {
+      "street": "101 Maple Street",
+      "suite": "Apt 505",
+      "city": "Kingdomville",
+      "zip-code": "101",
+      "geo": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    },
+    "company": {
+      "name": "Vaikunth",
+      "catchphrase": "Ruling the heavens with wisdom",
+      "bs": "Anadi Ananat Parbhramh"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Pushpaketu Kaama",
+    "email": "pushpaketu.kaama@vaikunth.lok",
+    "username": "PushpaketuKaama",
+    "phone": "+1234567890",
+    "address": {
+      "street": "789 Rose Street",
+      "suite": "Apt 303",
+      "city": "Gardenia",
+      "zip-code": "789",
+      "geo": {
+        "lat": 41.8781,
+        "lng": -87.6298
+      }
+    },
+    "company": {
+      "name": "Vaikunth",
+      "catchphrase": "Bringing love's blossoms to fruition",
+      "bs": "Anadi Ananat Parbhramh"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Skand Kartikey",
+    "email": "skand.kartikey@vaikunth.lok",
+    "username": "SkandKartikey",
+    "phone": "+1234567891",
+    "address": {
+      "street": "567 Lily Street",
+      "suite": "Apt 404",
+      "city": "Mountaintop",
+      "zip-code": "567",
+      "geo": {
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    },
+    "company": {
+      "name": "Vaikunth",
+      "catchphrase": "Guiding souls with divine wisdom",
+      "bs": "Anadi Ananat Parbhramh"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Dhanaraj Kuber",
+    "email": "dhanaraj.kuber@vaikunth.lok",
+    "username": "DhanarajKuber",
+    "phone": "+1234567892",
+    "address": {
+      "street": "101 Gold Street",
+      "suite": "Apt 505",
+      "city": "Treasuretown",
+      "zip-code": "101",
+      "geo": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    },
+    "company": {
+      "name": "Vaikunth",
+      "catchphrase": "Guardian of celestial wealth",
+      "bs": "Anadi Ananat Parbhramh"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Mitra Varuna",
+    "email": "mitra.varuna@vaikunth.lok",
+    "username": "MitraVaruna",
+    "phone": "+1234567893",
+    "address": {
+      "street": "202 Ocean Street",
+      "suite": "Apt 606",
+      "city": "Seashore",
+      "zip-code": "202",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074
+      }
+    },
+    "company": {
+      "name": "Vaikunth",
+      "catchphrase": "Balancing the cosmic order",
+      "bs": "Anadi Ananat Parbhramh"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Bhrigupati Parashurama",
+    "email": "bhrigupati.parashurama@vaikunth.lok",
+    "username": "BhrigupatiParashurama",
+    "phone": "+1234567890",
+    "address": {
+      "street": "789 Mountain View Road",
+      "suite": "Apt 303",
+      "city": "Divine Valley",
+      "zip-code": "789",
+      "geo": {
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    },
+    "company": {
+      "name": "Vaikunth",
+      "catchphrase": "Forging destinies with divine prowess",
+      "bs": "Anadi Ananat Parbhramh"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Bhaga Savitr",
+    "email": "bhaga.savitr@vaikunth.lok",
+    "username": "BhagaSavitr",
+    "phone": "+1234567891",
+    "address": {
+      "street": "567 Sunflower Boulevard",
+      "suite": "Apt 404",
+      "city": "Radiant City",
+      "zip-code": "567",
+      "geo": {
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    },
+    "company": {
+      "name": "Vaikunth",
+      "catchphrase": "Illuminating the universe with divine light",
+      "bs": "Anadi Ananat Parbhramh"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Mahakaal Shiva",
+    "email": "mahakaal.shiva@vaikunth.lok",
+    "username": "MahakaalShiva",
+    "phone": "+1234567892",
+    "address": {
+      "street": "101 Eternal Way",
+      "suite": "Apt 505",
+      "city": "Cosmic Realm",
+      "zip-code": "101",
+      "geo": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    },
+    "company": {
+      "name": "Vaikunth",
+      "catchphrase": "Destroyer of illusions, harbinger of transformation",
+      "bs": "Anadi Ananat Parbhramh"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Aditiputra Surya",
+    "email": "aditiputra.surya@vaikunth.lok",
+    "username": "AditiputraSurya",
+    "phone": "+1234567893",
+    "address": {
+      "street": "202 Sunbeam Lane",
+      "suite": "Apt 606",
+      "city": "Sunset City",
+      "zip-code": "202",
+      "geo": {
+        "lat": 39.9042,
+        "lng": 116.4074
+      }
+    },
+    "company": {
+      "name": "Vaikunth",
+      "catchphrase": "Radiating warmth and light to all beings",
+      "bs": "Anadi Ananat Parbhramh"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Rathakara Tvashtr",
+    "email": "rathakara.tvashtr@vaikunth.lok",
+    "username": "RathakaraTvashtr",
+    "phone": "+1234567894",
+    "address": {
+      "street": "303 Celestial Drive",
+      "suite": "Apt 707",
+      "city": "Heavenly Haven",
+      "zip-code": "303",
+      "geo": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      }
+    },
+    "company": {
+      "name": "Vaikunth",
+      "catchphrase": "Crafting the divine chariots of destiny",
+      "bs": "Anadi Ananat Parbhramh"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Mukhyaprana Vaayu",
+    "email": "mukhyaprana.vaayu@vaikunth.lok",
+    "username": "MukhyapranaVaayu",
+    "phone": "+1234567890",
+    "address": {
+      "street": "789 Breeze Avenue",
+      "suite": "Apt 303",
+      "city": "Windsor",
+      "zip-code": "789",
+      "geo": {
+        "lat": 40.7128,
+        "lng": -74.006
+      }
+    },
+    "company": {
+      "name": "Vaikunth",
+      "catchphrase": "Keeper of the life force, gentle breath of creation",
+      "bs": "Anadi Ananat Parbhramh"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Anant Vishnu",
+    "email": "anant.vishnu@vaikunth.lok",
+    "username": "AnantVishnu",
+    "phone": "+1234567891",
+    "address": {
+      "street": "567 Serenity Street",
+      "suite": "Apt 404",
+      "city": "Tranquility",
+      "zip-code": "567",
+      "geo": {
+        "lat": 34.0522,
+        "lng": -118.2437
+      }
+    },
+    "company": {
+      "name": "Vaikunth",
+      "catchphrase": "Preserver of the cosmos, infinite lord of all",
+      "bs": "Anadi Ananat Parbhramh"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Dharmaraj Yama",
+    "email": "dharmaraj.yama@vaikunth.lok",
+    "username": "DharmarajYama",
+    "phone": "+1234567892",
+    "address": {
+      "street": "101 Justice Lane",
+      "suite": "Apt 505",
+      "city": "Karma City",
+      "zip-code": "101",
+      "geo": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      }
+    },
+    "company": {
+      "name": "Vaikunth",
+      "catchphrase": "Balancer of cosmic scales, judge of souls",
+      "bs": "Anadi Ananat Parbhramh"
+    }
+  }
+]
